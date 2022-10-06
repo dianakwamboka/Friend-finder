@@ -8,7 +8,7 @@
 - The user gets to see then profile,name,and the age which to some users its imperative in regards to making friends,
 - A user can also reach out to a friend though the contacts of the friend that  is displayed which includes their email,phone number,there is also a password and this password applies to unlocking the private account of a friend,its not the personal password of a user,
 - After clicking the add friend button the user receives a confirmation text at the top of the page beneath the title(Friend-finder header)that their request was succesfully received and can proceed.                                                                                                 
-                # PROJECT DEMO LINK                                                                     
+                    #PROJECT DEMO LINK                                                                     
     #https://drive.google.com/file/d/1_8sLYFjH2lQlnWW7HxgaYnQ7Tu_nN_32/view
 
 
