@@ -1,14 +1,25 @@
 # Project Name: FRIEND-FINDER
 
-# Project Author: DIANA KWAMBOKA
+# Project Author: Diana Kwamboka
 
                 # PROJECT DESCRIPTION
 => Friend-Finder is an application where a user logs in and can make millions of friends in a click of a button,the user gets to make friends all over the world how it works:
 - The user gets to see then profile,name,and the age which to some users its imperative in regards to making friends,
 - A user can also reach out to a friend though the contacts of the friend that  is displayed which includes their email,phone number,there is also a password and this password applies to unlocking the private account of a friend,its not the personal password of a user,
 - After clicking the add friend button the user receives a confirmation text that their request was succesfully received and can proceed.
+            #PROJECT SET UP AND INSTRUCTIONS:
+# Technologies Used
+-  React - it was used to design, structure and add content to the web pages,
+-  CSS - it was used to styling our the pages
 
-
+# Installation and set up(Front end)
+- To create this react app run npx create-react-app friend-finder
+- Navigate(cd) into Friend-finder directory,
+- Run npm start to create the react app,lastly open in vscode and start working on the application
+# Installation and set up(Back end):
+- set up your database by running; $ npm run seed,
+- Install json server run this command in your terminal $ npm i json-server,
+- run json-server $ npm run server
 
 
 # Getting Started with Create React App
