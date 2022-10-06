@@ -26,7 +26,7 @@
   --clr-green-dark: hsl(125, 70%, 24%);
   --clr-green-light: hsl(125, 71%, 66%);
   --clr-black: rgb(143, 31, 31);
-  --transition: all 0.1s linear;
+  --transition: all 0.55s linear;
   --spacing: 0.2rem;
   --radius: 0.35rem;
   --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
