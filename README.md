@@ -1,9 +1,9 @@
                 # Project Name: FRIEND-FINDER
 
                 # Project Author: Diana Kwamboka
-                
 
-                # PROJECT DESCRIPTION
+
+ # PROJECT DESCRIPTION
 => Friend-Finder is an application where a user logs in and can make millions of friends in a click of a button,the user gets to make friends all over the world how it works:
 - The user gets to see then profile,name,and the age which to some users its imperative in regards to making friends,
 - A user can also reach out to a friend though the contacts of the friend that  is displayed which includes their email,phone number,there is also a password and this password applies to unlocking the private account of a friend,its not the personal password of a user,
