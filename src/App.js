@@ -59,6 +59,43 @@ function App() {
   }
   return (
     <main>
+      <button className='btn' type='' onBlur={getPerson}>
+            {loading ? 'Your Friend request has been successfully sent' : 'WELCOME TO FRIEND-FINDER APP' }
+          </button><button className='' type='' onBlur={''}>
+            {loading ? '....' : 'H O M E' }
+          </button>/,//////////////////////////////////////////////////////////////////////////////////<button className='' type='' onBlur={''}>
+            {loading ? 'lets make new friends' : 'SIGN-UP' }
+{/* class NameForm extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {value: ''};
+
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+  }
+
+  handleChange(event) {
+    this.setState({value: event.target.value});
+  }
+
+  handleSubmit(event) {
+    alert('A name was submitted: ' + this.state.value);
+    event.preventDefault();
+  }
+  
+
+  render() {
+    return (
+      <form onSubmit={this.handleSubmit}>
+        <label>
+          Name:
+          <input type="text" value={this.state.value} onChange={this.handleChange} />
+        </label>
+        <input type="submit" value="Submit" />
+      </form>
+    );
+    } */}
+          </button>
       <div className='block bcg-black'></div>
       <div className='block'>
         <div className='container'>
@@ -67,6 +104,7 @@ function App() {
             alt='random user'
             className='user-img'
           />
+          
           <p className='user-title'>My {title} is</p>
           <p className='user-value'>{value}</p>
           <div className='values-list'>
@@ -112,7 +150,7 @@ function App() {
           <button className='btn' type='button' onClick={getPerson}>
             {loading ? 'loading...' : 'add friend' }
           </button><button className='btn' type='button' onClick={getPerson}>
-            {loading ? '...' : 'x' }
+            {loading ? 'NEXT' : 'x' }
           </button>
         </div>
       </div>
