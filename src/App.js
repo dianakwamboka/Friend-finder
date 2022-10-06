@@ -73,7 +73,6 @@ function App() {
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
   }
-
   handleChange(event) {
     this.setState({value: event.target.value});
   }
@@ -84,7 +83,7 @@ function App() {
   }
 
 
-  
+
   render() {
     return (
       <form onSubmit={this.handleSubmit}>
