@@ -63,7 +63,7 @@ function App() {
             {loading ? 'Your Friend request has been successfully sent' : 'WELCOME TO FRIEND-FINDER APP' }
           </button><button className='' type='' onBlur={''}>
             {loading ? '....' : 'H O M E' }
-          </button>/,//////////////////////////////////////////////////////////////////////////////////<button className='' type='' onBlur={''}>
+          </button>/,//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<button className='' type='' onBlur={''}>
             {loading ? 'lets make new friends' : 'SIGN-UP' }
 {/* class NameForm extends React.Component {
   constructor(props) {
