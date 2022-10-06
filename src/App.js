@@ -65,7 +65,9 @@ function App() {
             {loading ? '....' : 'H O M E' }
           </button>/,//////////////////////////////////////////////////////////////////////////////////<button className='' type='' onBlur={''}>
             {loading ? 'lets make new friends' : 'SIGN-UP' }
+
             
+
 {/* class NameForm extends React.Component {
   constructor(props) {
     super(props);
