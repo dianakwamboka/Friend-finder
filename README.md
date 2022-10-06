@@ -1,6 +1,6 @@
-#Project Name: FRIEND-FINDER
+# Project Name: FRIEND-FINDER
 
-#Project Author: DIANA KWAMBOKA
+# Project Author: DIANA KWAMBOKA
 
 
 
