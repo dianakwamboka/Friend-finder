@@ -2,7 +2,8 @@
 
 # Project Author: DIANA KWAMBOKA
 
-
+# Project Description - Friend-Finder is an application where a user logs in and can make millions of friends in a click of a button,the user gets to make friends all over the world.
+-
 
 
 
