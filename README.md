@@ -17,10 +17,11 @@
 - Navigate(cd) into Friend-finder directory,
 - Run npm start to create the react app,lastly open in vscode and start working on the application
 # Installation and set up(Back end):
-- set up your database by running; $ npm run seed,
-- Install json server run this command in your terminal $ npm i json-server,
-- run json-server $ npm run server
+- You can create a db.json file
+- Ensure you have installed json-server globally if not run this command in your terminal($ npm i json-server)
+- run ($ jsn-server --watch db.json) to run the backend server
 
+# MIT LICENSE
 
 # Getting Started with Create React App
 
