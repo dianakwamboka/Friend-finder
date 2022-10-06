@@ -1,8 +1,18 @@
+import H1 from './H1'
 import React, { useState, useEffect } from 'react'
-
+import {
+  FaEnvelopeOpen,
+  FaUser,
+  FaCalendarTimes,
+  FaMap,
+  FaPhone,
+  FaLock,
+} from 'react-icons/fa'
+const url = 'https://randomuser.me/api/'
 
 function App() {
   const [loading, setLoading] = useState(true)
+
   const [person, setPerson] = useState(null)
   const [value, setValue] = useState('random person')
   const [title, setTitle] = useState('name')
@@ -100,12 +110,15 @@ function App() {
             </button>
           </div>
           <button className='btn' type='button' onClick={getPerson}>
-            {loading ? 'loading...' : 'random user'}
+            {loading ? 'loading...' : 'add friend' }
+          </button><button className='btn' type='button' onClick={getPerson}>
+            {loading ? '...' : 'x' }
           </button>
         </div>
       </div>
     </main>
   )
 }
+<H1/>
 
 export default App;

@@ -24,18 +24,18 @@ Variables
   --clr-grey-3: hsl(209, 34%, 30%);
   --clr-grey-4: hsl(209, 28%, 39%);
   /* grey used for paragraphs */
-  --clr-grey-5: hsl(210, 22%, 49%);
-  --clr-grey-6: hsl(209, 23%, 60%);
+  --clr-grey-5: hsl(0, 100%, 26%);
+  --clr-grey-6: hsl(288, 46%, 61%);
   --clr-grey-7: hsl(211, 27%, 70%);
-  --clr-grey-8: hsl(210, 31%, 80%);
+  --clr-grey-8: hsl(270, 6%, 73%);
   --clr-grey-9: hsl(212, 33%, 89%);
-  --clr-grey-10: hsl(210, 36%, 96%);
-  --clr-white: #fff;
-  --clr-red-dark: hsl(360, 67%, 44%);
-  --clr-red-light: hsl(360, 71%, 66%);
-  --clr-green-dark: hsl(125, 67%, 44%);
+  --clr-grey-10: hsl(183, 30%, 13%);
+  --clr-white: rgb(220, 225, 228);
+  --clr-red-dark: rgb(57, 145, 95);
+  --clr-red-light: rgb(139, 51, 80);
+  --clr-green-dark: hsl(125, 70%, 24%);
   --clr-green-light: hsl(125, 71%, 66%);
-  --clr-black: #222;
+  --clr-black: rgb(143, 31, 31);
   --transition: all 0.3s linear;
   --spacing: 0.1rem;
   --radius: 0.25rem;
@@ -44,11 +44,6 @@ Variables
   --max-width: 1170px;
   --fixed-width: 620px;
 }
-/*
-=============== 
-Global Styles
-===============
-*/
 
 *,
 ::after,
@@ -119,8 +114,6 @@ p {
     line-height: 1;
   }
 }
-/*  global classes */
-
 .btn {
   text-transform: uppercase;
   background: var(--clr-primary-5);
@@ -132,7 +125,7 @@ p {
   font-size: 0.875rem;
   border: 2px solid var(--clr-primary-5);
   cursor: pointer;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 3px rgba(79, 206, 20, 0.2);
   border-radius: var(--radius);
 }
 .btn:hover {
@@ -140,7 +133,7 @@ p {
   background: var(--clr-primary-1);
   border-color: var(--clr-primary-1);
 }
-/* section */
+
 .section {
   padding: 5rem 0;
 }
@@ -156,12 +149,11 @@ p {
   }
 }
 
-/* container */
 .block {
   min-height: 50vh;
 }
 .bcg-black {
-  background: #2c2e31;
+  background: #5e4b61;
 }
 
 .container {

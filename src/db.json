@@ -1,0 +1,125 @@
+{
+    "People": [
+    {
+      "id": 1,
+      "name": "Stela Jivute",
+      "email": "stelajay@gmail.com",
+      "age": 23,
+      "img": "/stella.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Slvestar Wepukhulu",
+      "email": "silweps@gmail.com",
+      "age": 27,
+      "img": "/stella.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ali Kiba",
+      "email": "alik@gmail.com",
+      "age": 35,
+      "img": "/stella.jpg"    },
+    {
+      "id": 4,
+      "name": "Jabir Mohammed",
+      "email": "abirmoha@hotmail.com",
+      "age": 24,
+      "img": "/jabir.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Lidya Abraham",
+      "email": "lAbraham@yahoo.com",
+      "age": 25,
+      "img": "/lidya.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Rue Baby",
+      "email": "rue555@gmail.com",
+      "age": 22,
+      "img": "/Rue.png"
+      
+    },
+    {
+      "id": 7,
+      "name": "Allen Matthews",
+      "email": "matthewA456@gmail.com",
+      "age": 29,
+      "img": "/allen.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Erick Mwai",
+      "email": "ErickSedu@hotmail.com",
+      "age": 26,
+      "img": "/erick.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Lucy Okoth",
+      "email": "lucyokoth56@hotmail.com",
+      "age": 21,
+      "img": "/lucyo.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Hafsa Nuh",
+        "email": "afsan777@gmail.com",
+        "age": 23,
+        "img": "/hafsaT.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Isir Malak",
+        "email": "imalak@gmail.com",
+        "age": 22,
+        "img": "/isir.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Esther Kiarie",
+        "email": "essyk@gmail.com",
+        "age": 22,
+        "img": "/essy.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Harold Nakhali",
+        "email": "haroldDee@hotmail.com",
+        "age": 24,
+        "img": "/harold.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Jonathan Joseph",
+        "email": "jayjay@gmail.com",
+        "age": 26,
+        "img": "/jj.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Billy Junior",
+        "email": "billjunior@gmail.com",
+        "age": 25,
+        "img": "/bill.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Patrick Mwongola",
+        "email": "patrickm99",
+        "age": 30,
+        "img": "/pat.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Rose Felix",
+        "email": "rosy77@gmail.com",
+        "age": 28,
+        "img": "/rosy.jpg"
+      },
+      {
+        "id": 18, "name": "Teddy Junior","email": "teddywalii@gmail.com","age": 29,"img": "/ted.jpg" }
+  ]
+}
