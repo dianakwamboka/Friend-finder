@@ -81,8 +81,6 @@ function App() {
     alert('A name was submitted: ' + this.state.value);
     event.preventDefault();
   }
-
-
   render() {
     return (
       <form onSubmit={this.handleSubmit}>
