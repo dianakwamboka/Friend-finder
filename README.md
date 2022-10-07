@@ -12,13 +12,10 @@
 
 
 
-                    #PROJECT DEMO LINK                                                                     
-    #https://drive.google.com/file/d/1_8sLYFjH2lQlnWW7HxgaYnQ7Tu_nN_32/view
-
-
-
-
-
+    #PROJECT DEMO LINK                                                                     
+    #https://friend-finder-one.vercel.app/
+    -
+    
             #PROJECT SET UP AND INSTRUCTIONS:
 # Technologies Used
 -  React - it was used to design, structure and add content to the web pages,
